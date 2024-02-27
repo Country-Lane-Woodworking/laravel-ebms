@@ -1,20 +1,12 @@
 {
-    "name": "mile6/laravel-ebms",
+    "name": "country-lane-woodworking/laravel-ebms",
     "description": "Laravel integration with EBMS",
     "keywords": [
         "mile6",
         "laravel",
         "laravel-ebms"
     ],
-    "homepage": "https://github.com/mile6/laravel-ebms",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Michael Deck",
-            "email": "michael@mile6.com",
-            "role": "Developer"
-        }
-    ],
     "require": {
         "php": "^7.3|^8.0",
         "guzzlehttp/guzzle": "^7.3",
